@@ -2,7 +2,7 @@
 
 This README.md file showcases: How to contribute, Checklist before sending PRs or pushing, and Utils & Developer tools that can help u when coding.  
 For detailed information about the project refer to [Product Requirement Document](PRD.md).  
-The Pre-Requisites for tasks is mentioned in the issue description so make sure u have them before working on them.    
+The Pre-Requisites for tasks are mentioned in the issue description so make sure u have them before working on them.    
 
 ## How to Contribute  
 - Go to acm-qu Projects section & click on Rate My Instructor
