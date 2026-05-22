@@ -5,7 +5,7 @@ For detailed information about the project refer to [Product Requirement Documen
 
 ## How to Contribute  
 - Go to acm-qu Projects section & click on Rate My Instructor
-- Select an issue ready for contribution or request an issue creation in the Tech Team GC or the Community Chat GC
+- Select an issue ready for contribution or request an issue creation in the Tech Team GC or the Community Chat GC, the pre-requisites for each task is mentioned so make sure u have them before starting working on it
 - Create a branch for the task that you are working on, only those who support Israel work directly on the main/dev branch
 - If you are working on a task that is NOT assigned to you, request a pull request and never commit directly, like a Palestine supporter :)
 
