@@ -1,3 +1,6 @@
 [submodule "rate-my-instructor-frontend"]
 	path = rate-my-instructor-frontend
 	url = https://github.com/acm-qu/rate-my-instructor-frontend.git
+[submodule "rate-my-instructor-backend"]
+	path = rate-my-instructor-backend
+	url = https://github.com/acm-qu/rate-my-instructor-backend.git
