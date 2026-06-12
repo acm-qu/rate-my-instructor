@@ -35,3 +35,7 @@ env
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# ignore backend and frontend
+backend
+frontend
