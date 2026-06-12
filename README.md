@@ -15,4 +15,4 @@ The Pre-Requisites for tasks are mentioned in the issue description so make sure
 - Test the new feature/fix and add a comment saying that it was tested n times
 
 ## How to run the applcation
-- Run `docker compose --env-file`
+- Run `chmod +x ./setup.sh && ./setup.sh`
