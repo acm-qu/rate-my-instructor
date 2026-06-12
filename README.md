@@ -14,5 +14,5 @@ The Pre-Requisites for tasks are mentioned in the issue description so make sure
 - Make sure the app works fine after adding that specific feature and/or fixing a specific bug
 - Test the new feature/fix and add a comment saying that it was tested n times
 
-## Utils & Developer tools
-- TBD
+## How to run the applcation
+- Run `docker compose --env-file`

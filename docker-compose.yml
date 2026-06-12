@@ -1,0 +1,32 @@
+name: ACM-Rate-My-Instructor
+
+services:
+  frontend:
+    build:
+      context: ./frontend
+    ports:
+      - "3000:3000"
+    depends_on:
+      - backend
+  backend:
+    build:
+      context: ./backend
+    ports:
+      - "8080:8080"
+    env_file:
+      - ./env/dev.env
+    depends_on:
+      - db
+      - redis
+  db:
+    image: postgres:18.4-alpine3.23
+    ports:
+      - "5432:5432"
+    env_file:
+      - ./env/dev.env
+  redis:
+    image: redis:8-alpine
+    ports:
+      - "6379:6379"
+    env_file:
+      - ./env/dev.env
